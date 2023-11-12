@@ -4,6 +4,6 @@ As I delve into coding our video game, I'm setting up crucial snippets related t
 
 Now, I'm crafting a piece of code that will determine whether the game is over. This will be based on whether either the timeRemaining variable equals 0 or the energy variable equals 0.
 
-##Solution 
+## Solution 
 You can check out the solution in the gameOverLogic.js file.
 
